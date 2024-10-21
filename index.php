@@ -1,6 +1,7 @@
 <?php
     $pageName = "Saurav's Portfolio";
-    include("assets/inc/header.php");
+    $path = "./";
+    include($path . "assets/inc/header.php");
 ?>
 
 <!-- <head>
