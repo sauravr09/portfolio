@@ -3,9 +3,9 @@
     include("assets/inc/header.php");
 ?>
 
-<head>
+<!-- <head>
     <link href="assets/css/index.css" rel="stylesheet" type="text/css">
-</head>
+</head> -->
 
 <body>
     <h1>Hi, my name is Saurav Raut</h1>
